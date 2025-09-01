@@ -11,7 +11,7 @@ It’s designed to cut through the noise:
 - ✅ Tags important events with flags (`funding`, `acquisition`, `product_launch`, `hiring`)  
 - ✅ Sends real-time alerts to Slack  
 
-![Slack Preview](https://raw.githubusercontent.com/TuguiDragos/RssAiNewsClassifier/refs/heads/main/Vortexia.png)
+![Slack Preview](https://raw.githubusercontent.com/TuguiDragos/RssAiNewsClassifier/refs/heads/main/Message.png)
 
 ## Why use it?
 If you’re tracking **AI, startups, finance, or tech industry news**, this workflow saves hours of manual reading. Instead of scanning dozens of feeds, you get clean summaries and alerts for only what matters.  
